@@ -3,7 +3,7 @@
   "latest": {
     "version": "1.0.0",
     "published": "2025-10-29T17:45:00Z",
-    "zip_url": "https://github.com/BJ-Hawk/Autoupdater-testing-facility/releases/download/v1.0.0/v1.0.0.zip",
+    "zip_url": "https://github.com/BJ-Hawk/Autoupdater-testing-facility/releases/download/test/v1.0.0.zip",
     "sha256": "dcbe0f45b58e1056c8cb80f718194122fd8b741f498c1e6549877b0d7cdf2a51",
     "size_bytes": 28425,
     "release_notes": "✨ Version 1.0.0\n- testing v1",
