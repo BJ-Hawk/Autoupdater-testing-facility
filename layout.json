@@ -1,0 +1,1444 @@
+{
+  "content": [
+    {
+      "path": "ContentInfo/airport-rjcb-obihiro-alois/ContentHistory.json",
+      "size": 150,
+      "date": 133811262028981916
+    },
+    {
+      "path": "ContentInfo/airport-rjcb-obihiro-alois/Thumbnail.jpg",
+      "size": 25341,
+      "date": 132860249000000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/RJCB_Obihiro.BGL",
+      "size": 3450034,
+      "date": 133811253165876928
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/ALOIS_ALMINIUM.PNG.DDS",
+      "size": 824,
+      "date": 132858873160000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/ALOIS_ALMINIUM.PNG.DDS.json",
+      "size": 102,
+      "date": 132858873160000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/ALOIS_ALMINIUM_C.PNG.DDS",
+      "size": 312,
+      "date": 133811264516863127
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/ALOIS_ALMINIUM_C.PNG.DDS.json",
+      "size": 166,
+      "date": 133811264516863127
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/ALOIS_ALMINIUM_LM.PNG.DDS",
+      "size": 824,
+      "date": 132858873160000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/ALOIS_ALMINIUM_LM.PNG.DDS.json",
+      "size": 102,
+      "date": 132858873160000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/ALOIS_ALUMINIUM.PNG.DDS",
+      "size": 824,
+      "date": 132858874380000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/ALOIS_ALUMINIUM.PNG.DDS.json",
+      "size": 102,
+      "date": 132858874380000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/ALOIS_ALUMINIUM_BROWN.PNG.DDS",
+      "size": 824,
+      "date": 132858873160000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/ALOIS_ALUMINIUM_BROWN.PNG.DDS.json",
+      "size": 102,
+      "date": 132858873160000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/ALOIS_ALUMINIUM_BROWN_C.PNG.DDS",
+      "size": 312,
+      "date": 133811262986450792
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/ALOIS_ALUMINIUM_BROWN_C.PNG.DDS.json",
+      "size": 166,
+      "date": 133811262986450792
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/ALOIS_ALUMINIUM_BROWN_LM.PNG.DDS",
+      "size": 824,
+      "date": 132858873160000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/ALOIS_ALUMINIUM_BROWN_LM.PNG.DDS.json",
+      "size": 102,
+      "date": 132858873160000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/ALOIS_DARK_BLUE.PNG.DDS",
+      "size": 5616,
+      "date": 132858873160000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/ALOIS_DARK_BLUE.PNG.DDS.json",
+      "size": 119,
+      "date": 132858873160000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/ALOIS_DARK_BLUE_C.PNG.DDS",
+      "size": 312,
+      "date": 132783308453993622
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/ALOIS_DARK_BLUE_C.PNG.DDS.json",
+      "size": 166,
+      "date": 132783308453993622
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/ALOIS_DARK_BLUE_LM.PNG.DDS",
+      "size": 5616,
+      "date": 132858873160000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/ALOIS_DARK_BLUE_LM.PNG.DDS.json",
+      "size": 119,
+      "date": 132858873160000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/ALOIS_ORANGE.PNG.DDS",
+      "size": 2872,
+      "date": 132858873160000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/ALOIS_ORANGE.PNG.DDS.json",
+      "size": 102,
+      "date": 132858873160000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/ALOIS_ORANGEA.PNG.DDS",
+      "size": 2872,
+      "date": 132858873160000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/ALOIS_ORANGEA.PNG.DDS.json",
+      "size": 102,
+      "date": 132858873160000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/ALOIS_RED.PNG.DDS",
+      "size": 2872,
+      "date": 132858873160000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/ALOIS_RED.PNG.DDS.json",
+      "size": 102,
+      "date": 132858873160000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/ALOIS_WINDOW.PNG.DDS",
+      "size": 5616,
+      "date": 132858873160000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/ALOIS_WINDOW.PNG.DDS.json",
+      "size": 119,
+      "date": 132858873160000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/ALOIS_WINDOW_C.PNG.DDS",
+      "size": 312,
+      "date": 132783308453993622
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/ALOIS_WINDOW_C.PNG.DDS.json",
+      "size": 166,
+      "date": 132783308453993622
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/ALUMINUM.PNG.DDS",
+      "size": 174904,
+      "date": 132858875640000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/ALUMINUM.PNG.DDS.json",
+      "size": 102,
+      "date": 132858875640000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/A_GRAY.PNG.DDS",
+      "size": 2872,
+      "date": 132858957600000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/A_GRAY.PNG.DDS.json",
+      "size": 102,
+      "date": 132858957600000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/A_HAIDEN.PNG.DDS",
+      "size": 2872,
+      "date": 132858957600000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/A_HAIDEN.PNG.DDS.json",
+      "size": 102,
+      "date": 132858957600000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/A_HAIDEN_LM.PNG.DDS",
+      "size": 2872,
+      "date": 132858957600000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/A_HAIDEN_LM.PNG.DDS.json",
+      "size": 102,
+      "date": 132858957600000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/A_LIGHT.PNG.DDS",
+      "size": 2872,
+      "date": 132858957600000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/A_LIGHT.PNG.DDS.json",
+      "size": 102,
+      "date": 132858957600000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/A_LIGHT_LM.PNG.DDS",
+      "size": 2872,
+      "date": 132858957600000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/A_LIGHT_LM.PNG.DDS.json",
+      "size": 102,
+      "date": 132858957600000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/BLD2_SH.PNG.DDS",
+      "size": 43832,
+      "date": 132858868380000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/BLD2_SH.PNG.DDS.json",
+      "size": 102,
+      "date": 132858868380000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/BLD2_W01.PNG.DDS",
+      "size": 43832,
+      "date": 132858868380000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/BLD2_W01.PNG.DDS.json",
+      "size": 102,
+      "date": 132858868380000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/CARGODOOR3.PNG.DDS",
+      "size": 349680,
+      "date": 132858874380000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/CARGODOOR3.PNG.DDS.json",
+      "size": 119,
+      "date": 132858874380000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/CARGODOOR3_LM.PNG.DDS",
+      "size": 174904,
+      "date": 132858874380000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/CARGODOOR3_LM.PNG.DDS.json",
+      "size": 102,
+      "date": 132858874380000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/CARGOSH2.PNG.DDS",
+      "size": 87536,
+      "date": 132858874380000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/CARGOSH2.PNG.DDS.json",
+      "size": 119,
+      "date": 132858874380000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/CARGOSH2_LM.PNG.DDS",
+      "size": 43832,
+      "date": 132858874380000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/CARGOSH2_LM.PNG.DDS.json",
+      "size": 102,
+      "date": 132858874380000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/CARGOWALL01.PNG.DDS",
+      "size": 2872,
+      "date": 132858874380000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/CARGOWALL01.PNG.DDS.json",
+      "size": 102,
+      "date": 132858874380000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/CARGOWALL01_LM.PNG.DDS",
+      "size": 2872,
+      "date": 132858874380000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/CARGOWALL01_LM.PNG.DDS.json",
+      "size": 102,
+      "date": 132858874380000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/CARGSH.PNG.DDS",
+      "size": 87536,
+      "date": 132858874380000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/CARGSH.PNG.DDS.json",
+      "size": 119,
+      "date": 132858874380000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/CARGSH_LM.PNG.DDS",
+      "size": 43832,
+      "date": 132858874380000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/CARGSH_LM.PNG.DDS.json",
+      "size": 102,
+      "date": 132858874380000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/DOOR01.PNG.DDS",
+      "size": 87536,
+      "date": 132858874380000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/DOOR01.PNG.DDS.json",
+      "size": 119,
+      "date": 132858874380000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/DOOR01_LM.PNG.DDS",
+      "size": 43832,
+      "date": 132858874380000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/DOOR01_LM.PNG.DDS.json",
+      "size": 102,
+      "date": 132858874380000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/DOOR2.PNG.DDS",
+      "size": 87536,
+      "date": 132858874380000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/DOOR2.PNG.DDS.json",
+      "size": 119,
+      "date": 132858874380000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/DOOR2_LM.PNG.DDS",
+      "size": 43832,
+      "date": 132858874380000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/DOOR2_LM.PNG.DDS.json",
+      "size": 102,
+      "date": 132858874380000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/KOUKUUDAIGAKUKOU_ALOIS_DARK_BLUE.PNG.DDS",
+      "size": 5616,
+      "date": 132858877400000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/KOUKUUDAIGAKUKOU_ALOIS_DARK_BLUE.PNG.DDS.json",
+      "size": 119,
+      "date": 132858877400000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/KOUKUUDAIGAKUKOU_DAI.PNG.DDS",
+      "size": 174904,
+      "date": 132858877400000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/KOUKUUDAIGAKUKOU_DAI.PNG.DDS.json",
+      "size": 102,
+      "date": 132858877400000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/KOUKUUDAIGAKUKOU_DOOR.PNG.DDS",
+      "size": 349680,
+      "date": 132858877400000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/KOUKUUDAIGAKUKOU_DOOR.PNG.DDS.json",
+      "size": 119,
+      "date": 132858877400000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/KOUKUUDAIGAKUKOU_FENCING_CHAIN_LINK.PNG.DDS",
+      "size": 22000,
+      "date": 132858877400000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/KOUKUUDAIGAKUKOU_FENCING_CHAIN_LINK.PNG.DDS.json",
+      "size": 119,
+      "date": 132858877400000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/KOUKUUDAIGAKUKOU_FENCING_METAL_STRAIGHT.PNG.DDS",
+      "size": 87536,
+      "date": 132858877400000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/KOUKUUDAIGAKUKOU_FENCING_METAL_STRAIGHT.PNG.DDS.json",
+      "size": 119,
+      "date": 132858877400000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/KOUKUUDAIGAKUKOU_GAKU.PNG.DDS",
+      "size": 174904,
+      "date": 132858877400000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/KOUKUUDAIGAKUKOU_GAKU.PNG.DDS.json",
+      "size": 102,
+      "date": 132858877400000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/KOUKUUDAIGAKUKOU_KAKUNOU_SH.PNG.DDS",
+      "size": 87536,
+      "date": 132858877400000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/KOUKUUDAIGAKUKOU_KAKUNOU_SH.PNG.DDS.json",
+      "size": 119,
+      "date": 132858877400000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/KOUKUUDAIGAKUKOU_KAKUNOU_WALL.PNG.DDS",
+      "size": 11064,
+      "date": 132858877400000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/KOUKUUDAIGAKUKOU_KAKUNOU_WALL.PNG.DDS.json",
+      "size": 102,
+      "date": 132858877400000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/KOUKUUDAIGAKUKOU_KOU.PNG.DDS",
+      "size": 174904,
+      "date": 132858877400000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/KOUKUUDAIGAKUKOU_KOU.PNG.DDS.json",
+      "size": 102,
+      "date": 132858877400000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/KOUKUUDAIGAKUKOU_KUU.PNG.DDS",
+      "size": 174904,
+      "date": 132858877400000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/KOUKUUDAIGAKUKOU_KUU.PNG.DDS.json",
+      "size": 102,
+      "date": 132858877400000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/KOUKUUDAIGAKUKOU_MATERIAL_1.PNG.DDS",
+      "size": 1398248,
+      "date": 132858877400000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/KOUKUUDAIGAKUKOU_MATERIAL_1.PNG.DDS.json",
+      "size": 102,
+      "date": 132858877400000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/KOUKUUDAIGAKUKOU_POLISHED_CONCRETE_NEW.PNG.DDS",
+      "size": 349680,
+      "date": 132858877400000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/KOUKUUDAIGAKUKOU_POLISHED_CONCRETE_NEW.PNG.DDS.json",
+      "size": 119,
+      "date": 132858877400000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/KOUKUUDAIGAKUKOU_ROOFING_METAL_STANDING_SEAM_RED.PNG.DDS",
+      "size": 5616,
+      "date": 132858877400000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/KOUKUUDAIGAKUKOU_ROOFING_METAL_STANDING_SEAM_RED.PNG.DDS.json",
+      "size": 119,
+      "date": 132858877400000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/KOUKUUDAIGAKUKOU_SCHOOL.PNG.DDS",
+      "size": 174904,
+      "date": 132858877400000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/KOUKUUDAIGAKUKOU_SCHOOL.PNG.DDS.json",
+      "size": 102,
+      "date": 132858877400000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/KOUKUUDAIGAKUKOU_STEEL_BRUSHED_STAINLESS.PNG.DDS",
+      "size": 174904,
+      "date": 132858877400000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/KOUKUUDAIGAKUKOU_STEEL_BRUSHED_STAINLESS.PNG.DDS.json",
+      "size": 102,
+      "date": 132858877400000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/KOUKUUDAIGAKUKOU_STONE_FLAGSTONE_ASHLAR.PNG.DDS",
+      "size": 174904,
+      "date": 132858877400000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/KOUKUUDAIGAKUKOU_STONE_FLAGSTONE_ASHLAR.PNG.DDS.json",
+      "size": 102,
+      "date": 132858877400000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/KOUKUUDAIGAKUKOU_W01.PNG.DDS",
+      "size": 87536,
+      "date": 132858877400000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/KOUKUUDAIGAKUKOU_W01.PNG.DDS.json",
+      "size": 119,
+      "date": 132858877400000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/KOUKUUDAIGAKUKOU_W02.PNG.DDS",
+      "size": 349680,
+      "date": 132858877400000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/KOUKUUDAIGAKUKOU_W02.PNG.DDS.json",
+      "size": 119,
+      "date": 132858877400000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/KOUKUUDAIGAKUKOU_WALL.PNG.DDS",
+      "size": 174904,
+      "date": 132858877400000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/KOUKUUDAIGAKUKOU_WALL.PNG.DDS.json",
+      "size": 102,
+      "date": 132858877400000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/KOUKUUDAIGAKUKOU_WHITE.PNG.DDS",
+      "size": 2872,
+      "date": 132858877400000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/KOUKUUDAIGAKUKOU_WHITE.PNG.DDS.json",
+      "size": 102,
+      "date": 132858877400000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/KOUKUUDAIGAKUKOU_WINDOW_FRAME.PNG.DDS",
+      "size": 824,
+      "date": 132858877400000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/KOUKUUDAIGAKUKOU_WINDOW_FRAME.PNG.DDS.json",
+      "size": 102,
+      "date": 132858877400000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/NO1.PNG.DDS",
+      "size": 174904,
+      "date": 132890971880000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/NO1.PNG.DDS.json",
+      "size": 102,
+      "date": 132890971880000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/NO1A.PNG.DDS",
+      "size": 174904,
+      "date": 132890971880000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/NO1A.PNG.DDS.json",
+      "size": 102,
+      "date": 132890971880000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/NO2.PNG.DDS",
+      "size": 174904,
+      "date": 132890973460000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/NO2.PNG.DDS.json",
+      "size": 102,
+      "date": 132890973460000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/NO2A.PNG.DDS",
+      "size": 174904,
+      "date": 132890973460000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/NO2A.PNG.DDS.json",
+      "size": 102,
+      "date": 132890973460000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/NO3.PNG.DDS",
+      "size": 174904,
+      "date": 132890974400000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/NO3.PNG.DDS.json",
+      "size": 102,
+      "date": 132890974400000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/NO3A.PNG.DDS",
+      "size": 174904,
+      "date": 132890974400000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/NO3A.PNG.DDS.json",
+      "size": 102,
+      "date": 132890974400000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/NO4.PNG.DDS",
+      "size": 174904,
+      "date": 132890975560000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/NO4.PNG.DDS.json",
+      "size": 102,
+      "date": 132890975560000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/NO4A.PNG.DDS",
+      "size": 174904,
+      "date": 132890975560000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/NO4A.PNG.DDS.json",
+      "size": 102,
+      "date": 132890975560000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/NO5.PNG.DDS",
+      "size": 174904,
+      "date": 132890974400000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/NO5.PNG.DDS.json",
+      "size": 102,
+      "date": 132890974400000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/NO5A.PNG.DDS",
+      "size": 174904,
+      "date": 132890974860000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/NO5A.PNG.DDS.json",
+      "size": 102,
+      "date": 132890974860000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/NO6.PNG.DDS",
+      "size": 174904,
+      "date": 132890973460000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/NO6.PNG.DDS.json",
+      "size": 102,
+      "date": 132890973460000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/NO6A.PNG.DDS",
+      "size": 174904,
+      "date": 132890973460000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/NO6A.PNG.DDS.json",
+      "size": 102,
+      "date": 132890973460000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/NO7.PNG.DDS",
+      "size": 174904,
+      "date": 132890971880000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/NO7.PNG.DDS.json",
+      "size": 102,
+      "date": 132890971880000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/NO7A.PNG.DDS",
+      "size": 174904,
+      "date": 132890971880000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/NO7A.PNG.DDS.json",
+      "size": 102,
+      "date": 132890971880000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/PARKING_WHITE.PNG.DDS",
+      "size": 312,
+      "date": 133796908731761633
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/PARKING_WHITE.PNG.DDS.json",
+      "size": 102,
+      "date": 133796908731761633
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/POLISHED_CONCRETE_NEW.PNG.DDS",
+      "size": 349680,
+      "date": 132858868400000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/POLISHED_CONCRETE_NEW.PNG.DDS.json",
+      "size": 119,
+      "date": 132858868400000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/POLISHED_CONCRETE_NEW_LM.PNG.DDS",
+      "size": 87536,
+      "date": 132858873160000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/POLISHED_CONCRETE_NEW_LM.PNG.DDS.json",
+      "size": 119,
+      "date": 132858873160000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/RDML_BLACK.PNG.DDS",
+      "size": 312,
+      "date": 132890971880000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/RDML_BLACK.PNG.DDS.json",
+      "size": 102,
+      "date": 132890971880000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/RDML_GRAY.PNG.DDS",
+      "size": 312,
+      "date": 132890971880000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/RDML_GRAY.PNG.DDS.json",
+      "size": 102,
+      "date": 132890971880000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/RDML_ORANGE.PNG.DDS",
+      "size": 312,
+      "date": 132890971880000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/RDML_ORANGE.PNG.DDS.json",
+      "size": 102,
+      "date": 132890971880000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/RJCBJALCARGOWAL.PNG.DDS",
+      "size": 43832,
+      "date": 132858874380000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/RJCBJALCARGOWAL.PNG.DDS.json",
+      "size": 102,
+      "date": 132858874380000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/RJCBJALCARGOWAL_LM.PNG.DDS",
+      "size": 43832,
+      "date": 132858874380000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/RJCBJALCARGOWAL_LM.PNG.DDS.json",
+      "size": 102,
+      "date": 132858874380000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/RJCB_DOOR01.PNG.DDS",
+      "size": 349680,
+      "date": 132858873160000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/RJCB_DOOR01.PNG.DDS.json",
+      "size": 119,
+      "date": 132858873160000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/RJCB_TERMINAL_ROOF.PNG.DDS",
+      "size": 312,
+      "date": 132858873160000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/RJCB_TERMINAL_ROOF.PNG.DDS.json",
+      "size": 102,
+      "date": 132858873160000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/RJCB_TERMINAL_ROOF_LM.PNG.DDS",
+      "size": 312,
+      "date": 132858873160000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/RJCB_TERMINAL_ROOF_LM.PNG.DDS.json",
+      "size": 102,
+      "date": 132858873160000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/RJCB_TERMINAL_ROOF_NM.PNG.DDS",
+      "size": 496,
+      "date": 132858873160000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/RJCB_TERMINAL_ROOF_NM.PNG.DDS.json",
+      "size": 160,
+      "date": 132858873160000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/RJCB_TERMINAL_WALL01.PNG.DDS",
+      "size": 5616,
+      "date": 132858873160000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/RJCB_TERMINAL_WALL01.PNG.DDS.json",
+      "size": 119,
+      "date": 132858873160000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/RJCB_TERMINAL_WALL01_LM.PNG.DDS",
+      "size": 2872,
+      "date": 132858873160000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/RJCB_TERMINAL_WALL01_LM.PNG.DDS.json",
+      "size": 102,
+      "date": 132858873160000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/RJCB_TERMINAL_WALL01_NM.PNG.DDS",
+      "size": 5616,
+      "date": 132858873160000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/RJCB_TERMINAL_WALL01_NM.PNG.DDS.json",
+      "size": 177,
+      "date": 132858873160000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/RJCB_TERMINAL_WALL02.PNG.DDS",
+      "size": 496,
+      "date": 132858873160000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/RJCB_TERMINAL_WALL02.PNG.DDS.json",
+      "size": 119,
+      "date": 132858873160000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/RJCB_TERMINAL_WALL02_LM.PNG.DDS",
+      "size": 312,
+      "date": 132858873160000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/RJCB_TERMINAL_WALL02_LM.PNG.DDS.json",
+      "size": 102,
+      "date": 132858873160000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/RJCB_TERMINAL_WALL02_NM.PNG.DDS",
+      "size": 496,
+      "date": 132858873160000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/RJCB_TERMINAL_WALL02_NM.PNG.DDS.json",
+      "size": 177,
+      "date": 132858873160000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/RJCB_TWR_ANTENA.PNG.DDS",
+      "size": 87536,
+      "date": 132858875640000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/RJCB_TWR_ANTENA.PNG.DDS.json",
+      "size": 119,
+      "date": 132858875640000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/RJCB_TWR_D01.PNG.DDS",
+      "size": 349680,
+      "date": 132858875640000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/RJCB_TWR_D01.PNG.DDS.json",
+      "size": 119,
+      "date": 132858875640000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/RJCB_TWR_D01_LM.PNG.DDS",
+      "size": 174904,
+      "date": 132858875640000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/RJCB_TWR_D01_LM.PNG.DDS.json",
+      "size": 102,
+      "date": 132858875640000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/RJCB_TWR_D02.PNG.DDS",
+      "size": 43832,
+      "date": 132858875640000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/RJCB_TWR_D02.PNG.DDS.json",
+      "size": 102,
+      "date": 132858875640000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/RJCB_TWR_D03.PNG.DDS",
+      "size": 43832,
+      "date": 132858875640000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/RJCB_TWR_D03.PNG.DDS.json",
+      "size": 102,
+      "date": 132858875640000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/RJCB_TWR_HASHIRA.PNG.DDS",
+      "size": 22000,
+      "date": 132858875640000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/RJCB_TWR_HASHIRA.PNG.DDS.json",
+      "size": 119,
+      "date": 132858875640000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/RJCB_TWR_HASHIRA_5.PNG.DDS",
+      "size": 22000,
+      "date": 132858875640000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/RJCB_TWR_HASHIRA_5.PNG.DDS.json",
+      "size": 119,
+      "date": 132858875640000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/RJCB_TWR_HASHIRA_6.PNG.DDS",
+      "size": 22000,
+      "date": 132858875640000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/RJCB_TWR_HASHIRA_6.PNG.DDS.json",
+      "size": 119,
+      "date": 132858875640000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/RJCB_TWR_HASHIRA_7.PNG.DDS",
+      "size": 22000,
+      "date": 132858875640000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/RJCB_TWR_HASHIRA_7.PNG.DDS.json",
+      "size": 119,
+      "date": 132858875640000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/RJCB_TWR_HASHIRA_8.PNG.DDS",
+      "size": 22000,
+      "date": 132858875640000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/RJCB_TWR_HASHIRA_8.PNG.DDS.json",
+      "size": 119,
+      "date": 132858875640000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/RJCB_TWR_HASHIRA_9.PNG.DDS",
+      "size": 22000,
+      "date": 132858875640000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/RJCB_TWR_HASHIRA_9.PNG.DDS.json",
+      "size": 119,
+      "date": 132858875640000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/RJCB_TWR_SAKU01.PNG.DDS",
+      "size": 11152,
+      "date": 132858875640000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/RJCB_TWR_SAKU01.PNG.DDS.json",
+      "size": 119,
+      "date": 132858875640000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/RJCB_TWR_SH01.PNG.DDS",
+      "size": 87536,
+      "date": 132858875640000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/RJCB_TWR_SH01.PNG.DDS.json",
+      "size": 119,
+      "date": 132858875640000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/RJCB_TWR_SHITYU1.PNG.DDS",
+      "size": 87536,
+      "date": 132858875640000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/RJCB_TWR_SHITYU1.PNG.DDS.json",
+      "size": 119,
+      "date": 132858875640000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/RJCB_TWR_SHITYU2.PNG.DDS",
+      "size": 22000,
+      "date": 132858875640000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/RJCB_TWR_SHITYU2.PNG.DDS.json",
+      "size": 119,
+      "date": 132858875640000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/RJCB_TWR_SHITYU2_10.PNG.DDS",
+      "size": 22000,
+      "date": 132858875640000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/RJCB_TWR_SHITYU2_10.PNG.DDS.json",
+      "size": 119,
+      "date": 132858875640000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/RJCB_TWR_SHITYU2_11.PNG.DDS",
+      "size": 22000,
+      "date": 132858875640000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/RJCB_TWR_SHITYU2_11.PNG.DDS.json",
+      "size": 119,
+      "date": 132858875640000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/RJCB_TWR_STW01.PNG.DDS",
+      "size": 1552,
+      "date": 132858875640000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/RJCB_TWR_STW01.PNG.DDS.json",
+      "size": 119,
+      "date": 132858875640000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/RJCB_TWR_STW01_13.PNG.DDS",
+      "size": 1552,
+      "date": 132858875640000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/RJCB_TWR_STW01_13.PNG.DDS.json",
+      "size": 119,
+      "date": 132858875640000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/RJCB_TWR_STW01_LM.PNG.DDS",
+      "size": 840,
+      "date": 132858875640000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/RJCB_TWR_STW01_LM.PNG.DDS.json",
+      "size": 102,
+      "date": 132858875640000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/RJCB_TWR_STW02.PNG.DDS",
+      "size": 11088,
+      "date": 132858875640000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/RJCB_TWR_STW02.PNG.DDS.json",
+      "size": 119,
+      "date": 132858875640000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/RJCB_TWR_STW02_LM.PNG.DDS",
+      "size": 5608,
+      "date": 132858875640000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/RJCB_TWR_STW02_LM.PNG.DDS.json",
+      "size": 102,
+      "date": 132858875640000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/RJCB_TWR_STW03.PNG.DDS",
+      "size": 22000,
+      "date": 132858875640000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/RJCB_TWR_STW03.PNG.DDS.json",
+      "size": 119,
+      "date": 132858875640000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/RJCB_TWR_STW03_LM.PNG.DDS",
+      "size": 11064,
+      "date": 132858875640000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/RJCB_TWR_STW03_LM.PNG.DDS.json",
+      "size": 102,
+      "date": 132858875640000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/RJCB_TWR_STW04.PNG.DDS",
+      "size": 5616,
+      "date": 132858875640000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/RJCB_TWR_STW04.PNG.DDS.json",
+      "size": 119,
+      "date": 132858875640000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/RJCB_TWR_STW04_LM.PNG.DDS",
+      "size": 2872,
+      "date": 132858875640000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/RJCB_TWR_STW04_LM.PNG.DDS.json",
+      "size": 102,
+      "date": 132858875640000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/RJCB_TWR_SW.PNG.DDS",
+      "size": 699192,
+      "date": 132858875640000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/RJCB_TWR_SW.PNG.DDS.json",
+      "size": 102,
+      "date": 132858875640000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/RJCB_TWR_UPWALL.PNG.DDS",
+      "size": 2872,
+      "date": 132858875640000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/RJCB_TWR_UPWALL.PNG.DDS.json",
+      "size": 102,
+      "date": 132858875640000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/RJCB_TWR_W01.PNG.DDS",
+      "size": 43856,
+      "date": 132858875640000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/RJCB_TWR_W01.PNG.DDS.json",
+      "size": 119,
+      "date": 132858875640000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/RJCB_TWR_W01_LM.PNG.DDS",
+      "size": 21992,
+      "date": 132858875640000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/RJCB_TWR_W01_LM.PNG.DDS.json",
+      "size": 102,
+      "date": 132858875640000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/RJCB_TWR_W02.PNG.DDS",
+      "size": 87536,
+      "date": 132858875640000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/RJCB_TWR_W02.PNG.DDS.json",
+      "size": 119,
+      "date": 132858875640000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/RJCB_TWR_W02_LM.PNG.DDS",
+      "size": 43832,
+      "date": 132858875640000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/RJCB_TWR_W02_LM.PNG.DDS.json",
+      "size": 102,
+      "date": 132858875640000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/RJCB_TWR_W03.PNG.DDS",
+      "size": 22000,
+      "date": 132858875640000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/RJCB_TWR_W03.PNG.DDS.json",
+      "size": 119,
+      "date": 132858875640000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/RJCB_TWR_W03_LM.PNG.DDS",
+      "size": 11064,
+      "date": 132858875640000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/RJCB_TWR_W03_LM.PNG.DDS.json",
+      "size": 102,
+      "date": 132858875640000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/RJCB_TWR_W04.PNG.DDS",
+      "size": 349680,
+      "date": 132858875640000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/RJCB_TWR_W04.PNG.DDS.json",
+      "size": 119,
+      "date": 132858875640000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/RJCB_TWR_W04_LM.PNG.DDS",
+      "size": 174904,
+      "date": 132858875640000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/RJCB_TWR_W04_LM.PNG.DDS.json",
+      "size": 102,
+      "date": 132858875640000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/RJCB_TWR_W05.PNG.DDS",
+      "size": 22000,
+      "date": 132858875640000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/RJCB_TWR_W05.PNG.DDS.json",
+      "size": 119,
+      "date": 132858875640000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/RJCB_TWR_W05_LM.PNG.DDS",
+      "size": 11064,
+      "date": 132858875640000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/RJCB_TWR_W05_LM.PNG.DDS.json",
+      "size": 102,
+      "date": 132858875640000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/RJCB_TWR_WALL.PNG.DDS",
+      "size": 2872,
+      "date": 132858875640000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/RJCB_TWR_WALL.PNG.DDS.json",
+      "size": 102,
+      "date": 132858875640000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/RJCB_TWR_WALL_LM.PNG.DDS",
+      "size": 2872,
+      "date": 132858875640000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/RJCB_TWR_WALL_LM.PNG.DDS.json",
+      "size": 102,
+      "date": 132858875640000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/RJCB_W03.PNG.DDS",
+      "size": 349680,
+      "date": 132858873160000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/RJCB_W03.PNG.DDS.json",
+      "size": 119,
+      "date": 132858873160000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/RJCB_W03_LM.PNG.DDS",
+      "size": 349680,
+      "date": 132858873160000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/RJCB_W03_LM.PNG.DDS.json",
+      "size": 119,
+      "date": 132858873160000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/RJCB_WALL01.PNG.DDS",
+      "size": 2872,
+      "date": 132858873160000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/RJCB_WALL01.PNG.DDS.json",
+      "size": 102,
+      "date": 132858873160000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/RJCB_WALL01_LM.PNG.DDS",
+      "size": 2872,
+      "date": 132858873160000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/RJCB_WALL01_LM.PNG.DDS.json",
+      "size": 102,
+      "date": 132858873160000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/RJCB_WALL01_NM.PNG.DDS",
+      "size": 5616,
+      "date": 132858873160000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/RJCB_WALL01_NM.PNG.DDS.json",
+      "size": 160,
+      "date": 132858873160000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/ROOF.PNG.DDS",
+      "size": 2872,
+      "date": 132858868400000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/ROOF.PNG.DDS.json",
+      "size": 102,
+      "date": 132858868400000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/RW_MARK.PNG.DDS",
+      "size": 2872,
+      "date": 133027046600000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/RW_MARK.PNG.DDS.json",
+      "size": 102,
+      "date": 133027046600000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/STEEL_BRUSHED_STAINLESS.PNG.DDS",
+      "size": 174904,
+      "date": 132858957600000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/STEEL_BRUSHED_STAINLESS.PNG.DDS.json",
+      "size": 102,
+      "date": 132858957600000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/STEEL_BRUSHED_STAINLESS_LM.PNG.DDS",
+      "size": 174904,
+      "date": 132858957600000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/STEEL_BRUSHED_STAINLESS_LM.PNG.DDS.json",
+      "size": 102,
+      "date": 132858957600000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/TERRAZZO_TILE_LIGHT.PNG.DDS",
+      "size": 349680,
+      "date": 132858868400000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/TERRAZZO_TILE_LIGHT.PNG.DDS.json",
+      "size": 119,
+      "date": 132858868400000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/WALL.PNG.DDS",
+      "size": 2872,
+      "date": 132858868400000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/WALL.PNG.DDS.json",
+      "size": 102,
+      "date": 132858868400000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/WHITE_MARK.PNG.DDS",
+      "size": 312,
+      "date": 133027046600000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/WHITE_MARK.PNG.DDS.json",
+      "size": 102,
+      "date": 133027046600000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/WINDOW01.PNG.DDS",
+      "size": 87536,
+      "date": 132858874380000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/WINDOW01.PNG.DDS.json",
+      "size": 119,
+      "date": 132858874380000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/WINDOW01_LM.PNG.DDS",
+      "size": 43832,
+      "date": 132858874380000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/object/texture/WINDOW01_LM.PNG.DDS.json",
+      "size": 102,
+      "date": 132858874380000000
+    },
+    {
+      "path": "Scenery/rjcb-obihiro-alois/RJCB_Obihiro/rjcb-obihiro-scenery.bgl",
+      "size": 26186,
+      "date": 133811262028936897
+    }
+  ]
+}
