@@ -4,28 +4,17 @@
     "version": "1.0.0",
     "published": "2025-10-29T17:45:00Z",
     "zip_url": "https://github.com/BJ-Hawk/Autoupdater-testing-facility/releases/download/v1.0.0/v1.0.0.zip",
-    "sha256": "c3d8a6b9f8f244f7a4b3d1d6d8a3e5b8f62a6b8a91b2d4a5c5f9a4b3d6e8c7f2",
-    "size_bytes": 15432876,
-    "release_notes": "✨ Version 1.0.3\n- Added improved display scaling\n- Fixed startup font issue after power loss\n- Minor performance tweaks for Pi5 display\n\nThank you for testing!",
+    "sha256": "dcbe0f45b58e1056c8cb80f718194122fd8b741f498c1e6549877b0d7cdf2a51",
+    "size_bytes": 28425,
+    "release_notes": "✨ Version 1.0.0\n- testing v1",
     "min_msfs_version": "1.37.19.0",
     "mandatory": false
   },
-  "channels": {
-    "beta": {
-      "version": "1.1.0-beta2",
-      "published": "2025-10-28T11:00:00Z",
-      "zip_url": "https://github.com/YourUser/YourRepo/releases/download/v1.1.0-beta2/YourAddon-1.1.0-beta2.zip",
-      "sha256": "ad12ef2bb34477aa8e550b9fa1c55261c7af66e4b799f2a9984a4f224aa761ee",
-      "size_bytes": 15827340,
-      "release_notes": "🔧 Version 1.1.0-beta2\n- Testing new timeout handling\n- Introduced auto-retry on missing UDP packets\n- Logging expanded for diagnostic builds",
-      "notes_url": "https://github.com/YourUser/YourRepo/releases/tag/v1.1.0-beta2"
-    }
-  },
   "meta": {
-    "author": "Michal Šitanc",
-    "addon_name": "Pi Display Receiver",
+    "author": "Mic",
+    "addon_name": "Test",
     "manifest_version": 1,
-    "homepage": "https://github.com/YourUser/YourRepo",
+    "homepage": "https://github.com/BJ-Hawk/Autoupdater-testing-facility",
     "contact": "michal@example.com"
   }
 }
