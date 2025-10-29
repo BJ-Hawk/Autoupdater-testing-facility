@@ -3,7 +3,7 @@
   "latest": {
     "version": "1.0.0",
     "published": "2025-10-29T17:45:00Z",
-    "zip_url": "https://github.com/BJ-Hawk/Autoupdater-testing-facility/releases/download/v1.0.0/YourAddon-1.0.3.zip",
+    "zip_url": "https://github.com/BJ-Hawk/Autoupdater-testing-facility/releases/download/v1.0.0/v1.0.0.zip",
     "sha256": "c3d8a6b9f8f244f7a4b3d1d6d8a3e5b8f62a6b8a91b2d4a5c5f9a4b3d6e8c7f2",
     "size_bytes": 15432876,
     "release_notes": "✨ Version 1.0.3\n- Added improved display scaling\n- Fixed startup font issue after power loss\n- Minor performance tweaks for Pi5 display\n\nThank you for testing!",
