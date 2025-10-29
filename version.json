@@ -1,7 +1,7 @@
 {
   "channel": "stable",
   "latest": {
-    "version": "1.0.1",
+    "version": "1.0.2",
     "published": "2025-10-29T18:45:00Z",
     "zip_url": "https://github.com/BJ-Hawk/Autoupdater-testing-facility/releases/download/v1.0.2/v1.0.2.zip",
     "sha256": "5aaebbd56b3581846318b16f1e02a9a0de407170e9971936c3564e05633edde4",
