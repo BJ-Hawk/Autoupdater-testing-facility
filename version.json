@@ -3,17 +3,17 @@
   "latest": {
     "version": "1.0.1",
     "published": "2025-10-29T18:45:00Z",
-    "zip_url": "https://github.com/BJ-Hawk/Autoupdater-testing-facility/releases/download/v1.0.1/v1.0.1.zip",
-    "sha256": "sha256:952ee2009c5579f30874ae432767b43336a1dba61560397f0434f0b7aff3df80",
-    "size_bytes": 28425,
-    "release_notes": "✨ Version 1.0.1\n- testing v1.0.1",
+    "zip_url": "https://github.com/BJ-Hawk/Autoupdater-testing-facility/releases/download/v1.0.2/v1.0.2.zip",
+    "sha256": "5aaebbd56b3581846318b16f1e02a9a0de407170e9971936c3564e05633edde4",
+    "size_bytes": 28571,
+    "release_notes": "✨ Version 1.0.2\n- testing v1.0.2",
     "min_msfs_version": "1.37.19.0",
     "mandatory": false
   },
   "meta": {
     "author": "Mic",
     "addon_name": "Test",
-    "manifest_version": 2,
+    "manifest_version": 3,
     "homepage": "https://github.com/BJ-Hawk/Autoupdater-testing-facility",
     "contact": "michal@example.com"
   }
