@@ -1,0 +1,15 @@
+{
+  "dependencies": [],
+  "content_type": "SCENERY",
+  "title": "Tokachi Obihiro Airport",
+  "manufacturer": "AloisJP",
+  "creator": "AloisJP",
+  "package_version": "1.0.9",
+  "minimum_game_version": "1.38.2",
+  "release_notes": {
+    "neutral": {
+      "LastUpdate": "",
+      "OlderHistory": ""
+    }
+  }
+}
